@@ -1,0 +1,17 @@
+
+.box {
+    min-height: 200px;
+    background-color: #ffc0cb;
+    border: 1px solid #000;
+    display: flex;
+    padding: 10px;
+}
+
+
+.nested {
+    min-height: 178px;
+    background-color: #f07f80;
+    border: 1px solid #000;
+    display: flex;
+    z-index: 100000;
+}
