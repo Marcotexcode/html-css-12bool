@@ -1,0 +1,29 @@
+
+section {
+    height: 100%;
+    border: 20px solid #000;
+}
+.box-black {
+    height: 50px;
+    background-color: black;
+}
+
+.box-yellow {
+    height: 50px;
+    background-color: yellow;
+}
+
+.box-white {
+    height: 50px;
+    background-color: white;
+}
+
+.box-brown {
+    height: 50px;
+    background-color: brown;
+}
+
+.box-light-blue {
+    height: 50px;
+    background-color: rgb(89, 207, 247);
+}
